@@ -1,0 +1,1 @@
+java -Xmx1024m -cp automation.jar youtube.automation.scheduler

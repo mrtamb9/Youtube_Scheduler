@@ -1,0 +1,6 @@
+username=film-channel-6772@pages.plusgoogle.com
+password=Tungpham123
+public_date=21-09-2016
+public_hour=1
+time_sleep=3000
+batch_size=3

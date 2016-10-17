@@ -1,0 +1,22 @@
+// info
+username=mrtamb9@gmail.com
+password=Tambk1209
+
+videos_public_per_day=1
+public_date_start=02-01-2018
+public_hour=1:00 AM
+new_upload_videos=2
+
+file_thumbnail=/home/thanhtam/Desktop/thumbnails/ (index).jpg
+number_thumbnails=5
+from_thumbnail=2
+
+start_id = 
+
+status_saved=All changes saved.
+
+output_date_format=MMM dd, yyyy
+// output_date_format=dd-MM-yyyy
+
+file_driver=geckodriver/chromedriver.exe
+http://chromedriver.storage.googleapis.com/index.html?path=2.24/
